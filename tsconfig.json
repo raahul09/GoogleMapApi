@@ -14,10 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "types": ["googlemaps"]
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
     "strictInjectionParameters": true
   }
 }
+
+  
